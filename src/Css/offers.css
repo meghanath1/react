@@ -1,0 +1,19 @@
+#bg{
+    position: absolute;
+    width: 400px;
+    height: 420px;
+    overflow: hidden;
+    top: 80px;
+    mix-blend-mode: hue;
+}
+@media only screen and (max-width: 600px) {
+  #bg {
+    top: 200px;
+      height: 475px;
+  }
+}
+.imgIcon{
+    width: 50%;
+    height: 400px;
+    overflow: hidden;
+}

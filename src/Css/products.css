@@ -1,0 +1,11 @@
+.product:hover{
+box-shadow: 1px 2px 13px -6px rgba(0,0,0,0.75);
+}
+.productSiz{
+  width: 100%;
+  margin-bottom: 25px;
+  height:200px;
+}
+.productSiz:hover{
+box-shadow: 1px 2px 13px -6px rgba(0,0,0,0.75);
+}
